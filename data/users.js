@@ -26,4 +26,10 @@ export const USERS = [
     user: "sahilpabale",
     image: "https://avatars.githubusercontent.com/u/57981014?v=4",
   },
+
+  {
+    user: "rithvik.idk",
+    image:
+      "https://instagram.fhyd1-4.fna.fbcdn.net/v/t51.2885-19/s150x150/240411263_359112145714069_6139888453059508046_n.jpg?_nc_ht=instagram.fhyd1-4.fna.fbcdn.net&_nc_ohc=OfmmS4A8ltgAX_ZXIMA&edm=ABfd0MgBAAAA&ccb=7-4&oh=961270402be0aff7de95f3e3bf5c971d&oe=616EBF85&_nc_sid=7bff83",
+  },
 ];
